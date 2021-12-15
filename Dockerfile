@@ -6,4 +6,6 @@ copy ./clock/* /usr/share/nginx/html/clock/
 copy ./calc/* /usr/share/nginx/html/calc/
 #copy ./*.css /usr/share/nginx/html/clock
 #copy ./*.png /usr/share/nginx/html/
-#copy ./*.js /usr/share/nginx/html/clock
+#copy ./*.js /usr/share/nginx/html/clocñ
+# docker build . -t our-server
+# docker run -it --rm -p 8081:80 our-server
