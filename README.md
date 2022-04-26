@@ -1,8 +1,8 @@
 # nginxAndDocker
-Deploy 2 web apps with docker and nginx.
+Deploy locally 2 web apps with docker and nginx.
 
 
-# First build the image in cmd: 
+# First build the docker image in cmd: 
  docker build . -t our-server
  
 # Then run the image turning it into a docker container:
