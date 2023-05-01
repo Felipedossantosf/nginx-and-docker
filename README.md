@@ -11,4 +11,4 @@ Deploy locally 2 web apps with docker and nginx.
 # The deploy is done, try:
  https://localhost:8081/calc
  and
- https://localhost:8081/clcok
+ https://localhost:8081/clock
