@@ -1,5 +1,5 @@
 # nginxAndDocker
-Deploy locally 2 web apps with docker and nginx.
+Deploy 2 web apps with docker and nginx.
 
 
 # First build the docker image in cmd: 
@@ -13,5 +13,3 @@ Deploy locally 2 web apps with docker and nginx.
  and
  https://localhost:8081/clock
  
-
-https://github.com/user-attachments/assets/2d016cd2-cba5-45fd-aa6e-0cf4398a3d2d
